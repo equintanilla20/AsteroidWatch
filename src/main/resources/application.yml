@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: AsteroidWatch
+nasa:
+    neo:
+        api:
+            url: https://api.nasa.gov/neo/rest/v1/feed
+    api:
+        key: ZbYTVdC9VzLzE06kzsLCb101iQNDcCIRbThTsekh
